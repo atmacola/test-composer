@@ -1,0 +1,12 @@
+{
+    "name": "libriciel/test-composer",
+    "description": "This is for testing purpose",
+    "type": "test",
+    "authors": [
+        {
+            "name": "lganee",
+            "email": "ludovic.ganee@libriciel.coop"
+        }
+    ],
+    "require": {}
+}
